@@ -380,7 +380,7 @@ await conn.sendMessage(from, {
         forwardingScore: 999, 
         isForwarded: true, 
         forwardedNewsletterMessageInfo: { 
-            newsletterJid: '', 
+            newsletterJid: '120363341506278064@newsletter', 
             newsletterName: config.BOT_NAME, 
             serverMessageId: 143 
         } 
